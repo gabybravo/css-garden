@@ -1,1 +1,46 @@
 /* Agrega aquí tus estilos*/
+* {
+	font-family: 'Ubuntu', sans-serif;
+}
+
+body {
+	margin: 0;
+	background-color: #A1A1A1;
+	color: #171717;
+	
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Bree Serif', serif;
+	font-weight: 400;
+	padding: 20px;
+}
+
+header h1 {
+	font-size: 40px;
+	background-image: url(http://www.mrwallpaper.com/wallpapers/space-red-nebulae.jpg);
+	background-repeat: no-repeat; 
+	background-attachment: fixed;
+	background-size: 100%;
+	color: #F7FFC4;
+	text-align: left;
+	padding: 30px;
+	margin: 0;
+}
+
+header h2 {
+	font-size: 30px;
+	color: #FFE8A2;
+}
+
+h3 {
+	font-size: 20px;
+	color: #FFD249;
+}
+
+p {
+	font-style: italic;
+	margin: 20px;
+}
+
+
